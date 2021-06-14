@@ -1,6 +1,6 @@
 <h1 align = "center">
-    I'm Hello World <br>
-    <a href="#">Mike Arvene Lantin</a>
+    Hello World <br>
+    I'm <a href="#">Mike Arvene Lantin</a>
 </h1>
 
 - I'm a college student and an aspiring Software Engineer
