@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mike Arvene Lantin</h1>
-<h3 align="center">A 22-year-old self-taught frontend web developer in the Philippines. I'm specialized in building responsive web applications using React.</h3>
+<h1 align="left">Hi 👋, I'm Mike Arvene Lantin</h1>
+<h3 align="left">A 22-year-old self-taught frontend web developer in the Philippines. I'm specialized in building responsive web applications using React.</h3>
 
 <p align="left"> <a href="https://twitter.com/arvenelantin" target="blank"><img src="https://img.shields.io/twitter/follow/arvenelantin?logo=twitter&style=for-the-badge" alt="arvenelantin" /></a> </p>
 
@@ -22,5 +22,5 @@
 
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=arvene241&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?user=arvene241&theme=tokyonight&layout=compact&hide_border=true" />
+  <img width="336" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arvene241&theme=tokyonight&layout=compact&hide_border=true" />
 </div>
