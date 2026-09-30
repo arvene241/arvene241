@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mike Arvene Lantin</h1>
-<h3 align="left">A 22-year-old self-taught frontend web developer in the Philippines. I'm specialized in building responsive web applications using React.</h3>
+<h3 align="left">I'm a full-stack developer based in Batangas, Philippines. At IBM, I build and maintain Java and Spring microservices for banking systems, with a focus on secure, well-tested software. I also build web products with React, Next.js, and TypeScript, including Throughline, a resume-to-job matching tool, and CoinEdge, a crypto research tracker. I enjoy turning complex workflows into experiences that feel clear and useful.</h3>
 
 <p align="left"> <a href="https://twitter.com/arvenelantin" target="blank"><img src="https://img.shields.io/twitter/follow/arvenelantin?logo=twitter&style=for-the-badge" alt="arvenelantin" /></a> </p>
 
